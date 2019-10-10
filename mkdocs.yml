@@ -10,19 +10,26 @@ extra:
     - type: 'github'
       link: 'https://github.com/cds-hooks'
 
-pages:
+nav:
 - Overview: 'index.md'
 - Specification:
     - '1.0': 'specification/1.0.md'
 - Hooks:
-    - 'Hooks' : 'hooks/index.md'
     - 'new-hook-template' : 'hooks/template.md'
-    - 'patient-view' : 'hooks/patient-view.md'
-    - 'medication-prescribe' : 'hooks/medication-prescribe.md'
-    - 'order-review' : 'hooks/order-review.md'
+    - 'patient-view 4' : 'hooks/patient-view.md'
+    - 'medication-prescribe 2' : 'hooks/medication-prescribe.md'
+    - 'order-review 3' : 'hooks/order-review.md'
+    - 'order-select 1' : 'hooks/order-select.md'
+    - 'order-sign 1' : 'hooks/order-sign.md'
+    - 'appointment-book 1' : 'hooks/appointment-book.md'
+    - 'encounter-start 1' : 'hooks/encounter-start.md'
+    - 'encounter-discharge 1' : 'hooks/encounter-discharge.md'
 - Quick Start: 'quickstart.md'
+- Cheat Sheet: 'cheat-sheet/Cheat Sheet - Sept 2019.pdf'
+- Best Practices: 'best-practices.md'
 - Examples: 'examples.md'
 - Community: 'community.md'
+- Logo Use: 'logo-use.md'
 
 repo_url: 'https://github.com/cds-hooks/docs'
 
